@@ -1,0 +1,2 @@
+# planning
+A collection of materials built to help me plan how this is gonna work
